@@ -1,5 +1,15 @@
-# MIT-Pro-Week4-PacMan
-# This is the last part
-## I am still trying
-### But is important not to give up
+# MIT Pro Week 4 Assignment
+# Name: 
+PacMan Interval
+# Description:
+The
+# Installation: 
 Therefore
+# Usage: 
+The
+# Support: 
+The
+# Roadmap: 
+The 
+# License information: 
+The 
