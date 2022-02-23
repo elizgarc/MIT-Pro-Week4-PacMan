@@ -1,15 +1,15 @@
 # MIT Pro Week 4 Assignment
 ### Name: 
-PacMan Interval
+PacMan Movement
 ### Description:
-The
+This exercise consisted on updating a starting code to succesfully finish a Pac-Man animation. 
 ### Installation: 
-Therefore
+N/A
 ### Usage: 
-The
+MIT Pro Coding Bootcamp
 ### Support: 
-The
+Slack
 ### Roadmap: 
-The 
+N/A
 ### License information: 
-The 
+Copywright (C) MIT Pro Coding Bootcamp Program - Emeritus 
