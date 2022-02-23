@@ -1,15 +1,15 @@
 # MIT Pro Week 4 Assignment
-# Name: 
+### Name: 
 PacMan Interval
-# Description:
+### Description:
 The
-# Installation: 
+### Installation: 
 Therefore
-# Usage: 
+### Usage: 
 The
-# Support: 
+### Support: 
 The
-# Roadmap: 
+### Roadmap: 
 The 
-# License information: 
+### License information: 
 The 
